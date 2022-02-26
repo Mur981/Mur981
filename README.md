@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Murtuza Madarwala
 - 🔭 Currently working as SAP HR Analyst, Mumbai
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning PowerBI , Tableau , SQL , Python
+- 🌱 I’m currently learning PowerBI , Tableau , SQL , Python , Excel....
 - 👨‍💻 All of my projects are available at https://github.com/Mur981
 - 📫 How to reach me murtuzas360@gmail.com
 
